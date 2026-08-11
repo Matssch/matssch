@@ -10,7 +10,7 @@ Outside of work, I’m usually playing tennis or at the gym, learning to kitesur
 
 ## Currently
 
-- Going deeper into funnel analytics, SQL and measurement
+- Going deeper into funnel analytics and measurement
 - Experimenting with AI in research, analysis and execution
 - Building my own portfolio and sharpening how I present my work
 - Exploring international B2B SaaS and growth opportunities
