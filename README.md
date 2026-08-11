@@ -1,16 +1,22 @@
-## Hi there 👋
+# I'm Mats
 
-<!--
-**Matssch/matssch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Growth marketer focused on demand generation, performance and building better funnels.**
 
-Here are some ideas to get you started:
+I like figuring out where growth gets stuck, acquisition, conversion, lifecycle, positioning or the handover to Sales and then actually fixing it. I've worked across paid acquisition, CRO, CRM, SEO, customer journeys and marketing strategy, managing €650K+ annual marketing budgets and leading marketing in a multi-brand environment.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Outside of work, I'm going deeper into analytics, SQL, AI and the more technical side of growth marketing.
+
+---
+
+## Currently
+
+- 🔨 Building practical growth marketing projects
+- 📊 Going deeper into funnel analytics, SQL and measurement
+- 🤖 Exploring how AI can improve marketing research, analysis and execution
+- 🌍 Interested in B2B SaaS, AI and international growth
+
+---
+
+## Find me
+
+[LinkedIn](https://www.linkedin.com/in/matsschimmelpenningh/)
