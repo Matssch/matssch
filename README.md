@@ -23,5 +23,5 @@ Outside of work, I’m usually playing tennis or at the gym, learning to kitesur
 [LinkedIn](https://www.linkedin.com/in/matsschimmelpenningh/)
 
 <a href="[YOUR-LINKEDIN-URL](https://www.linkedin.com/in/matsschimmelpenningh/)">
-  <img src="GITHUB - LINKEDIN BUTTONl.png" alt="LinkedIn" width="120">
+  <img src="GITHUB - LINKEDIN BUTTON.png" alt="LinkedIn" width="120">
 </a>
